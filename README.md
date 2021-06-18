@@ -1,0 +1,2 @@
+# IndianLiverProject_Revised
+This repository contains the dataset and post-submission revised R Markdown and research paper for the second project of the HarvardX PH125.9x course. The files were submitted on November 17, 2020, and edited with respect to qualitative descriptions of findings on May 26, 2021. The data consist of Indian liver disease patient (and healthy patient) records compiled by the UC Irvine Machine Learning Repository. The dataset is also available on Kaggle: https://www.kaggle.com/uciml/indian-liver-patient-records
